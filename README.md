@@ -19,16 +19,23 @@ Verify that you have the `bin_dataset` and `liar_dataset` folders for ISOT and L
 ## Code Execution
 The following files are used for our experimental analysis : 
 
-Linear_ISOT_Dataset : Contains the analysis of Linear Classifier Models with ISOT Dataset
+### Linear_ISOT_Dataset 
+Contains the analysis of Linear Classifier Models with ISOT Dataset
 
-LSTM_ISOT_Dataset : Contains the analysis of LSTM Classification with ISOT Dataset
+### LSTM_ISOT_Dataset 
+Contains the analysis of LSTM Classification with ISOT Dataset
 
-Linear_ISOT_Dataset_Reuters : Contains the analysis of Linear Classifier Models with ISOT Dataset after removing the 'Reuters' keyword
+### Linear_ISOT_Dataset_Reuters 
+Contains the analysis of Linear Classifier Models with ISOT Dataset after removing the 'Reuters' keyword
 
-Linear_Binary_LIAR_Dataset : Contains the analysis of Linear Classifier Models with LIAR Dataset adjusted for Binary Classification
+### Linear_Binary_LIAR_Dataset 
+Contains the analysis of Linear Classifier Models with LIAR Dataset adjusted for Binary Classification
 
-Multiclass_LIAR_Dataset : Contains the analysis of Linear Classifier Models with LIAR Dataset
+### Multiclass_LIAR_Dataset
+Contains the analysis of Linear Classifier Models with LIAR Dataset
 
-LSTM_Binary_Liar_Dataset : Contains the analysis of LSTM Model with LIAR Dataset adjusted for Binary Classification
+### LSTM_Binary_Liar_Dataset 
+Contains the analysis of LSTM Model with LIAR Dataset adjusted for Binary Classification
 
-LSTM_LIAR_Dataset : Contains the analysis of LSTM Models with LIAR Dataset
+### LSTM_LIAR_Dataset 
+Contains the analysis of LSTM Models with LIAR Dataset
